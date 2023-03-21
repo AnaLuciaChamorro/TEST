@@ -1,2 +1,2 @@
 # TEST
-esto es un teste
+esto es un test
